@@ -42,6 +42,7 @@ Consistent practice is more important than the number of problems solved
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ Consistent practice is more important than the number of problems solved
 | [1386-cinema-seat-allocation](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
