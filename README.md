@@ -232,4 +232,8 @@ Consistent practice is more important than the number of problems solved
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Database
+|  |
+| ------- |
+| [1321-restaurant-growth](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
