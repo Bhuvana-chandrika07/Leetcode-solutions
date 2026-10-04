@@ -235,5 +235,6 @@ Consistent practice is more important than the number of problems solved
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0178-rank-scores) |
 | [1321-restaurant-growth](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
