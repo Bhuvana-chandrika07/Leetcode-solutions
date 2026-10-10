@@ -34,6 +34,7 @@ Consistent practice is more important than the number of problems solved
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [1140-stone-game-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -75,10 +76,12 @@ Consistent practice is more important than the number of problems solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [3310-remove-methods-from-project](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [3310-remove-methods-from-project](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -214,6 +217,7 @@ Consistent practice is more important than the number of problems solved
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -222,6 +226,7 @@ Consistent practice is more important than the number of problems solved
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
