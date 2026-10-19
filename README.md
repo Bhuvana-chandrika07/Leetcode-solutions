@@ -65,6 +65,7 @@ Consistent practice is more important than the number of problems solved
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -91,6 +92,7 @@ Consistent practice is more important than the number of problems solved
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [3310-remove-methods-from-project](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -120,6 +122,7 @@ Consistent practice is more important than the number of problems solved
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0214-shortest-palindrome](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0399-evaluate-division](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -133,6 +136,7 @@ Consistent practice is more important than the number of problems solved
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -328,4 +332,8 @@ Consistent practice is more important than the number of problems solved
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
