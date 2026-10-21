@@ -38,6 +38,7 @@ Consistent practice is more important than the number of problems solved
 | [0228-summary-ranges](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0399-evaluate-division](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0523-continuous-subarray-sum](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0587-erect-the-fence](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [1140-stone-game-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -106,6 +107,7 @@ Consistent practice is more important than the number of problems solved
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0587-erect-the-fence](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [1140-stone-game-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -262,6 +264,7 @@ Consistent practice is more important than the number of problems solved
 ## Geometry
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Simulation
 |  |
@@ -337,4 +340,12 @@ Consistent practice is more important than the number of problems solved
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0126-word-ladder-ii) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
