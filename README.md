@@ -63,6 +63,7 @@ Consistent practice is more important than the number of problems solved
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
