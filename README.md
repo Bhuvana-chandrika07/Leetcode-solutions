@@ -308,6 +308,7 @@ Consistent practice is more important than the number of problems solved
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0178-rank-scores) |
+| [0627-swap-sex-of-employees](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1179-reformat-department-table](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1179-reformat-department-table) |
 | [1321-restaurant-growth](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Bhuvana-chandrika07/https-github.com-Bhuvana-chandrika07-Leetcode-solutions/tree/master/1341-movie-rating) |
